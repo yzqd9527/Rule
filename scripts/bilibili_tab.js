@@ -6,15 +6,15 @@ let body = JSON.parse($response.body);
 body['data']['tab'] = [
     {
         id: 40,
-        name: '就是你的生活',
+        name: '你所热爱的',
         uri: 'bilibili://pegasus/promo',
         tab_id: '热爱生活',
-        pos: 5
+        pos: 2
     },
 	
  {
         id: 41,
-        name: '你所热爱的',
+        name: '就是你的生活',
         uri: 'bilibili://pegasus/hottopic',
         tab_id: 'hottopic',
         pos: 3
