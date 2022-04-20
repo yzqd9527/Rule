@@ -1,2 +1,2 @@
 # Rule
-rewrit 规则  脚本
+rewrite 规则  脚本
